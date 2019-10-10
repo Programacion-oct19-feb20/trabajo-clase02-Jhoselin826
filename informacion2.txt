@@ -1,0 +1,14 @@
+Algoritmo: 
+Tiene pasos finitos para dar solución a un problema
+Estan escritos en lenguaje natural
+
+Ceudocodigos: 
+Siguen reglas es decir al usuario que ingrese un valor 
+Miniespecificaciones
+COnstruir un lenguaje de programación ya puede ser Java o Python 
+
+¿Qué es programa?
+Es una agrupación de instrucciones que permiten ordenar una computadora 
+
+Lenguaje de Programación:
+Utiliza lenguajes formales como: Python, C, C++, Java, Php, Ruby, etc.
